@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"type":"text","text":"QTabWidget","id":"32270f6abca8858a","x":-501,"y":-376,"width":120,"height":52},
+		{"type":"text","text":"tab  (QWidget)\n","id":"c5fb448902d087ac","x":-547,"y":-301,"width":212,"height":50},
+		{"type":"text","text":"layout (QVBoxLayout...)\n","id":"32ceab2eee3f42fb","x":-525,"y":-218,"width":161,"height":66},
+		{"type":"text","text":"group_box (QGroupBox)\n(this is an widget)","id":"d03b3464222263d1","x":-541,"y":-112,"width":193,"height":60},
+		{"type":"text","text":"layout (QVBoxLayout...)\n","id":"eb48f53911da5a53","x":-525,"y":-14,"width":161,"height":66},
+		{"type":"text","text":"widget (label, text,button)\n","id":"e0f174531da2e83b","x":-544,"y":95,"width":200,"height":50},
+		{"type":"text","text":"si parent  : \n+ widget : setLayout \n+ layout : addLayout\n\nexemple : on ajoute a group_pox un layout, on utlise setLayout car group_box (parent ici) est un \n\n<span class=\"remarque\">layout fona no lafika </span>","id":"27495e9fd4b2e8c8","x":-239,"y":-440,"width":257,"height":321}
+	],
+	"edges":[
+		{"id":"cfea63ea75c5f6cd","fromNode":"c5fb448902d087ac","fromSide":"top","toNode":"32270f6abca8858a","toSide":"bottom"},
+		{"id":"06189ab341767f3e","fromNode":"32ceab2eee3f42fb","fromSide":"top","toNode":"c5fb448902d087ac","toSide":"bottom"},
+		{"id":"d4f3b10958be7e48","fromNode":"d03b3464222263d1","fromSide":"top","toNode":"32ceab2eee3f42fb","toSide":"bottom"},
+		{"id":"570598d02daa9a3b","fromNode":"eb48f53911da5a53","fromSide":"top","toNode":"d03b3464222263d1","toSide":"bottom"},
+		{"id":"7b9c0c072a3f803e","fromNode":"e0f174531da2e83b","fromSide":"top","toNode":"eb48f53911da5a53","toSide":"bottom"}
+	]
+}

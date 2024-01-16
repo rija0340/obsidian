@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"24dc9a7e6cf43ff1","x":-590,"y":-382,"width":184,"height":72,"type":"text","text":"shortcode"},
+		{"type":"text","text":"panierTaghandler","id":"dad762d2ea71fa69","x":-367,"y":-382,"width":184,"height":72},
+		{"type":"text","text":"PanierRenderer","id":"4e91d98d159384d8","x":-131,"y":-382,"width":184,"height":72},
+		{"type":"text","text":"PanierService\n\n- message erreur (nous ne livrons pas ) se trouve dans -> getPaymentDatas()\n- obtention frais de port utilisé dans getDataLivraison() ( par cette ligne  listeFraisPort = fraisPort->getListe(parametre);)\n- cette parametre contient pay, code postal et items, info client\n- la fonction getliste se trouve dans FraisPortAbstract.class.php\n- etude de cette classe abstract en cours\n- seulement codepostal est prise en compte pour avoir frais de port ( pays est juste utilisé comme affichage )","id":"81b831eb4be66cff","x":-474,"y":-247,"width":970,"height":219}
+	],
+	"edges":[
+		{"id":"c7cf43fc1f0330f8","fromNode":"24dc9a7e6cf43ff1","fromSide":"right","toNode":"dad762d2ea71fa69","toSide":"left"},
+		{"id":"5fd3841860baa84f","fromNode":"dad762d2ea71fa69","fromSide":"right","toNode":"4e91d98d159384d8","toSide":"left"},
+		{"id":"2cc7c26c50879508","fromNode":"4e91d98d159384d8","fromSide":"bottom","toNode":"81b831eb4be66cff","toSide":"top"}
+	]
+}

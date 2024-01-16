@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"type":"group","id":"09c1fe6be60a5c21","x":-1618,"y":-868,"width":329,"height":268,"label":"Marque"},
+		{"type":"group","id":"d97f90ff2e71ba74","x":-1581,"y":-817,"width":259,"height":198,"label":"Marque"},
+		{"type":"group","id":"776da8c778515c93","x":-1175,"y":-490,"width":240,"height":207,"color":"3","label":"choix2etape1"},
+		{"type":"group","id":"52ae13f606f5ebea","x":-1219,"y":-1118,"width":233,"height":207,"color":"1","label":"choix1etape1"},
+		{"type":"group","id":"b79bc4f3698cd253","x":-813,"y":-1217,"width":233,"height":207,"color":"1","label":"choix1etape1"},
+		{"type":"group","id":"62321f0ef7916446","x":-822,"y":-908,"width":233,"height":207,"color":"1","label":"choix1etape1"},
+		{"type":"text","text":"+ choice1 manana steps \n+ ao anaty steps mbola misy choix \n+ ny choix iray met mbola manana steps koa","id":"1a7ca2d84d725ec2","x":-1214,"y":-1411,"width":378,"height":123},
+		{"type":"text","text":"Aspire","id":"6ab0d2233a1ce70a","x":-1195,"y":-1075,"width":172,"height":50},
+		{"type":"text","text":"Travelmate","id":"f1316587dbcad933","x":-1189,"y":-1001,"width":172,"height":50},
+		{"type":"text","text":"AspireOne","id":"4b20d6373756f1a8","x":-775,"y":-1178,"width":172,"height":50},
+		{"type":"text","text":"AspireTwo","id":"22468fd09d52d7f7","x":-772,"y":-1095,"width":172,"height":50},
+		{"type":"text","text":"eo zan tsika no manao anle oe numero de serie \n\noatra zao oe acer le marque nofidiny \n\ndia mbola misy choix oe \n+ aspire\n+ travelmate \n\ndia ataontsika oe misafidy ilay aspire izy dia mbola misafidy ndray oe \none sa two \n\ndell ndray oatra \n\n+ latitude\n+ inspiron\ndia ilay latitude sy inspiron koa samy mananan ny numero\n\n<span class=\"remarque\"> tokony hoe le id anle choix vo clické no anokafana ny etape manaraka </span>\n\nzany ho raha oatra acer ilay choix dia tokon acerEtape1 ny manaraka \nraha aspire ilay voaclick dia aspirendray ny tohiny avy eo \ndia efa misy hidden input fotsin i enregistrena ilay choix fait à chaque étape ","id":"1e8bd50f55f4ce46","x":-456,"y":-1242,"width":518,"height":540},
+		{"type":"text","text":"T100","id":"63a59b4bf54f3b59","x":-798,"y":-865,"width":172,"height":50},
+		{"type":"text","text":"T200","id":"93a99b2d8bb98ff8","x":-792,"y":-791,"width":172,"height":50},
+		{"type":"text","text":"Acer","id":"6b4b8b3e50fee59a","x":-1546,"y":-784,"width":190,"height":50},
+		{"type":"text","text":"Dell","id":"1df4373f5a2252c1","x":-1545,"y":-710,"width":195,"height":50},
+		{"type":"text","text":"inspiron","id":"6fc800cdc71afc9e","x":-1142,"y":-452,"width":175,"height":50},
+		{"type":"text","text":"latitude","id":"d47c0bde2507bfa2","x":-1137,"y":-378,"width":175,"height":50},
+		{"type":"text","text":"modele","id":"3ee1a1b6c51a14e0","x":-1196,"y":-769,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"5354ca8e0b2cf006","fromNode":"6b4b8b3e50fee59a","fromSide":"right","toNode":"52ae13f606f5ebea","toSide":"left"},
+		{"id":"d559fec1c021ab85","fromNode":"1df4373f5a2252c1","fromSide":"right","toNode":"776da8c778515c93","toSide":"left"},
+		{"id":"41379c598b502bb0","fromNode":"6ab0d2233a1ce70a","fromSide":"right","toNode":"b79bc4f3698cd253","toSide":"left"},
+		{"id":"cdf3c8f60e15038e","fromNode":"f1316587dbcad933","fromSide":"right","toNode":"62321f0ef7916446","toSide":"left"}
+	]
+}

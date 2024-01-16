@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"type":"text","text":"page catalogue","id":"d8ff3952eb4a1f59","x":-1140,"y":-905,"width":160,"height":80},
+		{"type":"text","text":"produit.php","id":"99ed716daac3eb1f","x":-900,"y":-900,"width":140,"height":75},
+		{"type":"text","text":"detailsProduits","id":"585cc0d4e72ebafc","x":-720,"y":-825,"width":160,"height":60},
+		{"type":"text","text":"listeProduits\n","id":"581952331560f127","x":-720,"y":-980,"width":160,"height":55},
+		{"type":"text","text":"class  : \ncataloguesApi (emplacement selon catalogue utilisé)","id":"9197222bc32889ba","x":-480,"y":-935,"width":220,"height":110}
+	],
+	"edges":[
+		{"id":"2c853868689ae5c1","fromNode":"d8ff3952eb4a1f59","fromSide":"right","toNode":"99ed716daac3eb1f","toSide":"left"},
+		{"id":"db6c4aec823379ff","fromNode":"99ed716daac3eb1f","fromSide":"right","toNode":"581952331560f127","toSide":"left"},
+		{"id":"f0cc28e8b3929aef","fromNode":"99ed716daac3eb1f","fromSide":"right","toNode":"585cc0d4e72ebafc","toSide":"left"},
+		{"id":"6f3d6ab98c20b550","fromNode":"581952331560f127","fromSide":"right","toNode":"9197222bc32889ba","toSide":"left"},
+		{"id":"4ce46f3406fc89ce","fromNode":"585cc0d4e72ebafc","fromSide":"right","toNode":"9197222bc32889ba","toSide":"left"}
+	]
+}
