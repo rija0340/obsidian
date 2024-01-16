@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linkeo/Dyma/react/2-qu'est ce que React.md",
+                "file": "Linkeo/utils linkeo/svn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linkeo/Dyma/react/2-qu'est ce que React.md",
+                "file": "Linkeo/utils linkeo/svn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linkeo/Dyma/react/2-qu'est ce que React.md"
+                "file": "Linkeo/utils linkeo/svn.md"
               }
             }
           },
@@ -216,10 +216,11 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "89081bee35164809",
+  "active": "6fe255f494da9407",
   "lastOpenFiles": [
-    "Linkeo/travaux dans IDEO32/amélioration clean svg.md",
     "Linkeo/Dyma/react/2-qu'est ce que React.md",
+    "git token full access.md",
+    "Linkeo/travaux dans IDEO32/amélioration clean svg.md",
     "Linkeo/travaux dans IDEO32/Cleaner SVG lors de l'upload.md",
     "Linkeo/Dyma/react",
     "Linkeo/Dyma",
@@ -247,7 +248,6 @@
     "Linkeo/travaux dans IDEO32/Bug RS  pas de title \"Whatsapp\".md",
     "Linkeo/travaux dans IDEO32/Options de style block newsletter.md",
     "Linkeo/travaux dans IDEO32/Modifier les options de choix de couleur du block.md",
-    "Linkeo/travaux dans IDEO32/doc- page.md",
     "Pasted image 20240103145514.png",
     "study/freecodecamp-coding-interview-prep/menu",
     "Linkeo/travaux dans icom3/souci commande canvas.canvas",
